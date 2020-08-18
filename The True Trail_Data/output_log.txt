@@ -1,0 +1,35 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R5 Graphics (ID=0x9874)
+    Vendor:   ATI
+    VRAM:     2295 MB
+    Driver:   16.101.1311.1001
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jorge\Documents\GitHub\The-True-Trail\The True Trail_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jorge\Documents\GitHub\The-True-Trail\The True Trail_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jorge\Documents\GitHub\The-True-Trail\The True Trail_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jorge\Documents\GitHub\The-True-Trail\The True Trail_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jorge\Documents\GitHub\The-True-Trail\The True Trail_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jorge\Documents\GitHub\The-True-Trail\The True Trail_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jorge\Documents\GitHub\The-True-Trail\The True Trail_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jorge\Documents\GitHub\The-True-Trail\The True Trail_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\jorge\Documents\GitHub\The-True-Trail\The True Trail_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\jorge\Documents\GitHub\The-True-Trail\The True Trail_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  1.915 seconds
+Platform assembly: C:\Users\jorge\Documents\GitHub\The-True-Trail\The True Trail_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\jorge\Documents\GitHub\The-True-Trail\The True Trail_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.558800 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2a98 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.113500 ms
+
+Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 2566.
+Total: 1.564300 ms (FindLiveObjects: 0.328900 ms CreateObjectMapping: 0.180400 ms MarkObjects: 0.814600 ms  DeleteObjects: 0.238500 ms)
+
